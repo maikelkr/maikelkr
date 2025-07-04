@@ -1,7 +1,7 @@
 ### Hi there!
 ### I'm a .NET Core Developer
- <img src="https://i.ibb.co/HrCxtJk/mortarboard-1.png" alt="Mortar logo" title="Mortar" height="13" />  Systems Analysis and Development at PUCPR<br>
-<img src="https://i.ibb.co/HrCxtJk/mortarboard-1.png" alt="Mortar logo" title="Mortar" height="13" />  Information Technology Managment at FASUL Educacional<br><br>
+ Systems Analysis and Development at PUCPR<br>
+ Information Technology Managment at FASUL Educacional<br><br>
 **Languages & Tools:** <br>
 []()
 <img src="https://img.shields.io/badge/.NET CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET logo" title=".NET" height="25" />
